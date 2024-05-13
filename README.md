@@ -1,3 +1,5 @@
+Deprecated. Please move to: https://github.com/TxThinkingInc/brook-user-system
+
 # brook-manager
 
 A Web UI for fully automatic management of [Brook](https://github.com/txthinking/brook)
